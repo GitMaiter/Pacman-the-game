@@ -1,0 +1,1 @@
+c:\users\roman\documents\visual studio 2012\Projects\PacManTheGame\PacManTheGame\PacManTheGameContent\obj\x86\Debug\PacManTheGameContent.contentprojResolveAssemblyReference.cache

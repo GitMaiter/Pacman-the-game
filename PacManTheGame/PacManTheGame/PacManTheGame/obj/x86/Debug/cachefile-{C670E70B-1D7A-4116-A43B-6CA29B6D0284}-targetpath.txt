@@ -1,0 +1,17 @@
+Content\Pacman_HD_down.xnb
+Content\Pacman_HD_left.xnb
+Content\Pacman_HD_right.xnb
+Content\Pacman_HD_up.xnb
+Content\field1.xnb
+Content\Pacman_HD.xnb
+Content\coin.xnb
+Content\GhostBlue.xnb
+Content\GhostPink.xnb
+Content\GhostRed.xnb
+Content\GhostYellow.xnb
+Content\fieldTile.xnb
+Content\fieldTileCenter.xnb
+Content\fieldTileDown.xnb
+Content\fieldTileLeft.xnb
+Content\fieldTileRight.xnb
+Content\fieldTileUp.xnb
